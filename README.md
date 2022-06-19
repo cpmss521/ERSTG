@@ -1,5 +1,5 @@
-# Knowledge-aware-joint-learning
-Joint Entity and Relation Extraction with Knowledge Graph  
+# EnRelTSG
+
 
 
 The code is being organized....
