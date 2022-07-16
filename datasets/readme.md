@@ -9,3 +9,4 @@
 ## dataset process
  The syntactic dependency parses and POS labels are obtained by using [Stanford CoreNLP Toolkit ](https://stanfordnlp.github.io/CoreNLP/)
 
+processed data formate like sample_data.json
