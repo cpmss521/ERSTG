@@ -13,8 +13,7 @@ python ./enRelTsg.py train --config configs/ade_train.conf
 python ./enRelTsg.py eval --config configs/ade_eval.conf
 ```
 
-### Fetch data
-## Download Datasets 
+### Download Datasets 
 - ADE: [ADE](http://lavis.cs.hs-rm.de/storage/spert/public/datasets/ade/)   
 - DDI: [DDI]( https://hulat.inf.uc3m.es/ddicorpus ) 
 - CoNLL04 : [CoNLL04](http://lavis.cs.hs-rm.de/storage/spert/public/datasets/ade/)   
