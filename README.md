@@ -34,6 +34,11 @@ processed data formate like sample_data.json
  "orig_id": 412
  },
 ```
+### Pretrained Wordvecs
+
+The word vectors used in our experiments:
++ BioBERT or BERT  from transformer 
++ [BioWord2Vec](http://evexdb.org/pmresources/vec-space-models/wikipedia-pubmed-and-PMC-w2v.bin) for ADE and DDI;  [GloVe](http://nlp.stanford.edu/data/glove.6B.zip) for CoNLL04 datasets. 
 
 
 ## References
