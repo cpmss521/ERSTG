@@ -2,13 +2,13 @@
 
 code for "Syntactic type-aware graph attention network for biomedical overlapping entity relation extraction"  
 our ERSTG based on SpERT framework,
-###  Examples Instructions
-(1) Train ADE:
+###  Examples ADE Instructions
+(1) Train model:
 ```
 python ./enRelTsg.py train --config configs/ade_train.conf
 ```
 
-(2) Evaluate the BioNLP11EPI model on test dataset:
+(2) Evaluate the  model on test dataset:
 ```
 python ./enRelTsg.py eval --config configs/ade_eval.conf
 ```
