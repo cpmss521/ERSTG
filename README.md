@@ -3,9 +3,10 @@
 code for "Syntactic type-aware graph attention network for biomedical overlapping entity relation extraction"  
 our ERSTG based on SpERT framework
 ### Requirements
-* Python 3.6
-* PyTorch 1.9.0
-*  transformers 2.1.1  
+* Python 3.8.10
+* PyTorch 1.11.0
+*  transformers 4.5.1
+*  tqdm 4.61.2 
 
 ###  Examples ADE Instructions
 (1) Train model:
