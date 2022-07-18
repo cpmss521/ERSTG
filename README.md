@@ -1,7 +1,7 @@
 # ERSTG
 
 code for "Syntactic type-aware graph attention network for biomedical overlapping entity relation extraction"  
-our ERSTG based on SpERT framework
+
 ### Requirements
 * Python 3.8.10
 * PyTorch 1.11.0
