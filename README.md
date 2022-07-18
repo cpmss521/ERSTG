@@ -1,7 +1,12 @@
 # ERSTG
 
 code for "Syntactic type-aware graph attention network for biomedical overlapping entity relation extraction"  
-our ERSTG based on SpERT framework,
+our ERSTG based on SpERT framework
+### Requirements
+* Python 3.6
+* PyTorch 1.9.0
+*  transformers 2.1.1  
+
 ###  Examples ADE Instructions
 (1) Train model:
 ```
@@ -34,11 +39,6 @@ processed data formate like sample_data.json
  "orig_id": 412
  },
 ```
-### Pretrained Wordvecs
-
-The word vectors used in our experiments:
-+ BioBERT or BERT  from transformer 
-+ [BioWord2Vec](http://evexdb.org/pmresources/vec-space-models/wikipedia-pubmed-and-PMC-w2v.bin) for ADE and DDI;  [GloVe](http://nlp.stanford.edu/data/glove.6B.zip) for CoNLL04 datasets. 
 
 
 ## References
