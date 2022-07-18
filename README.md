@@ -11,12 +11,12 @@ code for "Syntactic type-aware graph attention network for biomedical overlappin
 ###  Examples ADE Instructions
 (1) Train model:
 ```
-python ./enRelTsg.py train --config configs/ade_train.conf
+python ./enRelTsg.py train --config configs/example_train.conf
 ```
 
 (2) Evaluate the  model on test dataset:
 ```
-python ./enRelTsg.py eval --config configs/ade_eval.conf
+python ./enRelTsg.py eval --config configs/example_eval.conf
 ```
 
 ### Download Datasets 
