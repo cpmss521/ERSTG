@@ -1,6 +1,6 @@
 # ERSTG
 
-code for "Syntactic type-aware graph attention network for biomedical overlapping entity relation extraction"  
+code for "Syntactic Type-aware Graph Attention Network for Drug-drug Interactions and their Adverse Effects Extraction"   
 
 ### Requirements
 * Python 3.8.10
@@ -22,7 +22,6 @@ python ./enRelTsg.py eval --config configs/example_eval.conf
 ### Download Datasets 
 - ADE: [ADE](http://lavis.cs.hs-rm.de/storage/spert/public/datasets/ade/)   
 - DDI: [DDI]( https://hulat.inf.uc3m.es/ddicorpus ) 
-- CoNLL04 : [CoNLL04](http://lavis.cs.hs-rm.de/storage/spert/public/datasets/ade/)   
  
 ## dataset process
  The syntactic dependency parses and POS labels are obtained by using [Stanford CoreNLP Toolkit ](https://stanfordnlp.github.io/CoreNLP/)
