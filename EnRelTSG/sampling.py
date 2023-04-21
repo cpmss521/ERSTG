@@ -4,7 +4,6 @@ import torch
 import numpy as np
 from EnRelTSG import util
 
-
 def create_train_sample(doc, neg_entity_count: int, neg_rel_count: int, max_span_size: int, rel_type_count: int, over_rate:float):
     encodings = doc.encoding
     token_count = len(doc.tokens)
