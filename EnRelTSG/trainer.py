@@ -10,7 +10,6 @@ from torch.nn import DataParallel
 from torch.optim import Optimizer
 from transformers import PreTrainedModel
 from transformers import PreTrainedTokenizer
-
 from EnRelTSG import util
 from EnRelTSG.opt import tensorboardX
 
