@@ -376,7 +376,3 @@ class EnRelTrainer(BaseTrainer):
                                                  'rel_nec_prec_macro', 'rel_nec_rec_macro', 'rel_nec_f1_macro',
                                                  'epoch', 'iteration', 'global_iteration']})
 
-
-
-if __name__ == '__main__':
-    print('111')
